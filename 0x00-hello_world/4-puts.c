@@ -1,6 +1,6 @@
-#!/bin/bash
-int main (void)
+#include <stdio.h>
+int main ()
 {
-     int puts (Programing is like building a multilingual puzzle\n);
-	return 0;
+	puts ("Programming is like building a multilingual puzzle");
+	return (0);
 }
