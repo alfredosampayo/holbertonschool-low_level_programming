@@ -1,17 +1,17 @@
 #include "holberton.h"
+/**
+ * print_alphabet - prints the alphabet
+ * Return: zero
+ */
 
-
-int main(void)
+void print_alphabet(void)
 {
- 
-	for (alph = 'a'; alph <= 'z'; alph++);
+	char alph;
+
+	for (alph = 'a'; alph <= 'z'; alph++)
 
 	_putchar(alph);
-    
-        _putchar('\n');
 
-return(0);
+	 _putchar('\n');
 
 }
-
-
