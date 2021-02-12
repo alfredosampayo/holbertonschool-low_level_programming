@@ -3,7 +3,9 @@
  * _isupper - check for upper or lower case
  *
  * Return: 1 if c is upper case, otherwise return 0
+ * @c: vaiable c
  */
+
 
 int _isupper(int c)
 {
